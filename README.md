@@ -19,7 +19,7 @@ A stylish stopwatch app built with Flutter that features milliseconds, reset, an
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/stopwatch_app.git
+   git clone https://github.com/th3varun/stopwatch_app.git
 2. Navigate to the project directory:
    ```bash
    cd stopwatch_app
