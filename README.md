@@ -13,7 +13,11 @@ A stylish stopwatch app built with Flutter that features milliseconds, reset, an
 ## Screenshots
 
 ### Light Theme
-<img src="light_theme.png" alt="Light Theme" width="300"/> <img src="dark_theme.png" alt="Dark Theme" width="300"/>
+
+<p align="center">
+  <img src="screenshots/light_theme.png" alt="Light Theme" width="300" style="margin-right: 20px;"/>
+  <img src="screenshots/dark_theme.png" alt="Dark Theme" width="300"/>
+</p>
 
 ## Installation
 
