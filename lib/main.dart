@@ -20,6 +20,7 @@ class MyApp extends StatelessWidget {
             debugShowCheckedModeBanner: false,
             theme: themeProvider.isDarkMode ? darkTheme : lightTheme,
             home: const HomePage(),
+            //checking
           );
         },
       ),
